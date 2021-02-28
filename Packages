@@ -12,6 +12,20 @@ Priority: optional
 Author: Summit
 Name: HYXD One Click
 
+Package: com.patch
+Version: 0.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.patch_0.3_iphoneos-arm.deb
+Size: 816
+MD5sum: ef38f0af614d3c8baf1dcdcd56a106b6
+SHA1: 340c1ee8e1da862782c711269e723578916b799d
+SHA256: bedb3b4279d020d49bb93796254c03ee4d621ce10abca39a8077d54006a11c96
+Section: Tweaks
+Priority: optional
+Author: Summit
+Name: Depends Patch (Beta)
+
 Package: com.unlimapps.uasharedtools.nostash
 Version: 2.2r-87
 Architecture: iphoneos-arm
@@ -33,20 +47,4 @@ Author: UnlimApps Inc. <support@unlimapps.com>
 Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.uasharedtools/
 Dev: i4iphones
 Name: uasharedtools (iOS 11)
-
-Package: patch
-Version: 0.2.1
-Architecture: iphoneos-arm
-Maintainer: 淡泊明志
-Installed-Size: 616
-Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/patch_0.2.1_iphoneos-arm.deb
-Size: 836
-MD5sum: a3834f8199c0101ff7b094f85a0c76fc
-SHA1: ea1dd079fb8bd783ca8ed107d7cd06444cf46c4a
-SHA256: 9883e6325b38f7e65f147d2ca3026c650dce90de8f0d8ffab1ead2a9dda9f72f
-Section: Tweaks
-Author: 淡泊明志
-Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Name: Depends Patch (Beta)
 
