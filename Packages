@@ -1,0 +1,30 @@
+Package: com.Summit.HY
+Version: 0.3
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/SummitHY.deb
+Size: 1195638
+MD5sum: 912d0102465880730fba381a24146ff5
+SHA1: f1946c227b3bac24103d99f54f8f771f6c364abd
+SHA256: fbb45172e85ccc6e57e37a3c22941dd8f67ef848cbdef64853b7f4462c050a30
+Section: Tweaks
+Priority: optional
+Author: Summit
+Name: HYXD One Click
+
+Package: patch
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: 淡泊明志
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/patch_0.2.1_iphoneos-arm.deb
+Size: 836
+MD5sum: a3834f8199c0101ff7b094f85a0c76fc
+SHA1: ea1dd079fb8bd783ca8ed107d7cd06444cf46c4a
+SHA256: 9883e6325b38f7e65f147d2ca3026c650dce90de8f0d8ffab1ead2a9dda9f72f
+Section: Tweaks
+Author: 淡泊明志
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Depends Patch (Beta)
+
