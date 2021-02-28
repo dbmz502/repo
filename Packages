@@ -12,19 +12,19 @@ Priority: optional
 Author: Summit
 Name: HYXD One Click
 
-Package: com.patch
-Version: 0.3
+Package: com.Summit.HYFF
+Version: 0.2
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, applist
-Filename: ./debs/com.patch_0.3_iphoneos-arm.deb
-Size: 816
-MD5sum: ef38f0af614d3c8baf1dcdcd56a106b6
-SHA1: 340c1ee8e1da862782c711269e723578916b799d
-SHA256: bedb3b4279d020d49bb93796254c03ee4d621ce10abca39a8077d54006a11c96
+Filename: ./debs/com.Summit.HYFF_0.2_iphoneos-arm.deb
+Size: 1195676
+MD5sum: 4ce73326746e5a1b6944b2389b995a06
+SHA1: 8569f3f687586b08dbd0f0b071f71d857fa4717c
+SHA256: edaf23e83fb5d5be85ad381b883e5c00ac0ff5742b79de8342091b9ced7fdc00
 Section: Tweaks
 Priority: optional
 Author: Summit
-Name: Depends Patch (Beta)
+Name: HYXD Patch
 
 Package: com.unlimapps.uasharedtools.nostash
 Version: 2.2r-87
